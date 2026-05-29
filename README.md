@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Saad El-Assali
+<h1 align="center">Hi there 👋, I'm Saad El-Assali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Arch+Linux+Enthusiast;Hyprland+Customizer;Building+Fast+and+Lightweight+Apps" />
