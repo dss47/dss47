@@ -48,11 +48,10 @@ Saad El-Assali
 
 ### 🌸 Nippon
 
-> Lightweight native anime browser.
+> Native anime browser.
 
-* GTK4-powered interface
-* Migrating away from Electron
-* Focused on speed, responsiveness, and low memory usage
+* Electron-powered interface
+* Focused on speed, responsiveness, and freedom
 
 ---
 
@@ -73,15 +72,6 @@ Saad El-Assali
 * Next.js + TypeScript
 * TailwindCSS styling
 * Responsive and minimalist design
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dnydesu&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnydesu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
